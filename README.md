@@ -1,6 +1,6 @@
 # Hello! I'm Nick Pyburn 👋
 
-Welcome to my little corner of the internet, where code meets creativity and a dash of humor. 🛠️💡
+I am a Software Developer with  over 8 years commercial experience. I'm enthusiastic and love getting my teeth into a good problem. I work well solo, but have great interpersonal skills and thrive in a team setting where I can learn from and benefit others.
 
 ### About Me
 I'm a developer with experience in:
@@ -12,10 +12,7 @@ I'm a developer with experience in:
 I’ve spent a lot of time learning, coding, and occasionally yelling at bugs. When I'm not working on a new project or refactoring code for the millionth time, I love spending time with my family who are getting better at dragging me away from the screen!
 
 ### What I’m Working On
-Currently, you’ll find me juggling a variety of projects. From card games that test your luck 🎴 to trivia apps that challenge your mind 🎤, there’s always something to code and improve.
-
-### Fun Fact
-I once wrote a line of code so perfect it ran on the first try. It’s been downhill since then. 😅
+Currently, you’ll find me juggling a variety of projects. I predominantly write code that drives robots in labs. This could be for instruments which perform a multitude of sciencey tasks, from imaging colonies to picking them. Basically anything that automates work and makes life easier for scientists. I specialise in developing beautiful user interfaces. Working closely with designers to breathe life into their designs. 
 
 ### Let’s Connect!
 Feel free to check out my repos, drop a comment, or even suggest some cool projects. I’m always open to collaboration, learning, and sharing ideas.
